@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+body{
+    font-family: "Roboto", sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 250px;
+}
+li{
+    padding: 10px;
+  
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/*main part styling*/
+main{
+    display: flex;
+}
+main h1{
+    font-size: 40px;
+}
+.content{
+    margin-left: 70px;
+}
+main button{
+    padding: 10px;
+
+}
+main .second{
+    margin-left: 10px;
+}
